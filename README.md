@@ -50,4 +50,4 @@ CrowdBudget is a mobile application that helps users estimate their shopping bud
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/crowdbudget.git
+git clone https://github.com/RamenNoodleMan/CrowdBudget-App.git
