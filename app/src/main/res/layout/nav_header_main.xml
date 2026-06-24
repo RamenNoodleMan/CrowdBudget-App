@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:background="?attr/colorPrimary"
+    android:gravity="center">
+
+    <!-- App Logo - SAME as login screen -->
+    <ImageView
+        android:id="@+id/ivAppIcon"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="16dp"
+        android:src="@drawable/ic_logo"
+        android:contentDescription="App Logo" />
+
+    <!-- App Title - Cursive Gold -->
+    <TextView
+        android:id="@+id/tvAppTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CrowdBudget"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:textColor="#F9A825"
+        android:fontFamily="cursive"
+        android:layout_marginTop="12dp"
+        android:layout_marginBottom="16dp" />
+
+</LinearLayout>

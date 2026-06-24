@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "325343474443",
+    "project_id": "crowdbudget-cbd0b",
+    "storage_bucket": "crowdbudget-cbd0b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325343474443:android:a68a618227fe31b3a8a80e",
+        "android_client_info": {
+          "package_name": "com.crowdbudget.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqCkFXFdUBvikeHkGpoyu2uFZzERxrc2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

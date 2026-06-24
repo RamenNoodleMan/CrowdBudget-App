@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Even in dark mode, force light background -->
+    <style name="Theme.CrowdBudget" parent="Theme.Material3.Light.NoActionBar">
+        <item name="android:windowBackground">#F5F5F5</item>
+        <item name="android:colorBackground">#F5F5F5</item>
+        <item name="colorSurface">#FFFFFF</item>
+        <item name="colorOnSurface">#000000</item>
+        <item name="android:textColor">#000000</item>
+
+        <item name="colorPrimary">#2E7D32</item>
+        <item name="colorPrimaryVariant">#1B5E20</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+
+        <item name="colorSecondary">#F9A825</item>
+        <item name="colorSecondaryVariant">#F57F17</item>
+        <item name="colorOnSecondary">#000000</item>
+
+        <item name="colorError" tools:ignore="DuplicateDefinition">#D32F2F</item>
+        <item name="colorError" tools:ignore="DuplicateDefinition">#D32F2F</item>
+
+        <item name="android:statusBarColor">#2E7D32</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CrowdBudget</string>
+
+    <!-- Button Labels -->
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="logout">Logout</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="clear">Clear</string>
+    <string name="submit">Submit</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="remove">Remove</string>
+
+    <!-- Field Labels -->
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="full_name">Full Name</string>
+    <string name="product_name">Product Name</string>
+    <string name="category">Category</string>
+    <string name="price">Price</string>
+    <string name="store_name">Store Name</string>
+    <string name="quantity">Quantity</string>
+
+    <!-- Error Messages -->
+    <string name="error_email_invalid">Please enter a valid email address</string>
+    <string name="error_password_short">Password must be at least 6 characters</string>
+    <string name="error_password_weak">Password must be at least 6 characters and include a number</string>
+    <string name="error_name_short">Name must be at least 2 characters</string>
+    <string name="error_price_invalid">Please enter a valid number</string>
+    <string name="error_price_empty">Please enter a price</string>
+    <string name="error_price_negative">Price must be greater than 0</string>
+    <string name="error_price_high">Price seems too high</string>
+    <string name="error_product_name_empty">Please enter a product name</string>
+    <string name="error_product_name_short">Product name too short</string>
+    <string name="error_product_name_long">Product name too long</string>
+    <string name="error_network">Check your internet connection</string>
+    <string name="error_email_exists">Email already registered</string>
+    <string name="error_login_failed">Login failed</string>
+
+    <!-- Success Messages -->
+    <string name="success_login">Welcome back!</string>
+    <string name="success_register">Account created successfully!</string>
+    <string name="success_product_added">Product added!</string>
+    <string name="success_price_submitted">Price submitted!</string>
+    <string name="success_list_saved">List saved!</string>
+    <string name="success_list_cleared">List cleared</string>
+
+    <!-- Navigation Drawer -->
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="product_search">Product Search</string>
+    <string name="shopping_basket">Shopping Basket</string>
+    <string name="price_contribution">Price Contribution</string>
+    <string name="previous_lists">Previous Lists</string>
+
+    <!-- Empty States -->
+    <string name="empty_products">No products available</string>
+    <string name="empty_shopping_list">Your basket is empty</string>
+    <string name="empty_saved_lists">No saved lists yet</string>
+
+    <!-- Price Format -->
+    <string name="price_format">ZMW %.2f</string>
+    <string name="total_format">Total: ZMW %.2f</string>
+
+    <!-- Currency -->
+    <string name="currency_zmw">ZMW</string>
+    <string name="currency_symbol">ZMW</string>
+</resources>

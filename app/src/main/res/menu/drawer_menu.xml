@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_product_search"
+            android:icon="@android:drawable/ic_menu_search"
+            android:title="Product Search" />
+
+        <item
+            android:id="@+id/nav_shopping_basket"
+            android:icon="@android:drawable/ic_menu_edit"
+            android:title="My Shopping Basket" />
+
+        <item
+            android:id="@+id/nav_price_contribution"
+            android:icon="@android:drawable/ic_menu_share"
+            android:title="Price Contribution" />
+
+
+    </group>
+
+    <item
+        android:id="@+id/nav_logout"
+        android:icon="@android:drawable/ic_menu_close_clear_cancel"
+        android:title="Logout" />
+
+
+
+</menu>

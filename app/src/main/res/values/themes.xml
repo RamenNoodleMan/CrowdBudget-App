@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.CrowdBudget" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Light background -->
+        <item name="android:windowBackground">#F5F5F5</item>
+
+        <!-- Primary colors - Zambia green -->
+        <item name="colorPrimary">#2E7D32</item>
+        <item name="colorPrimaryVariant">#1B5E20</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+
+        <!-- Secondary colors -->
+        <item name="colorSecondary">#F9A825</item>
+        <item name="colorSecondaryVariant">#F57F17</item>
+        <item name="colorOnSecondary">#000000</item>
+
+        <!-- Toolbar styling -->
+        <item name="android:actionBarStyle">@style/MyActionBar</item>
+
+        <!-- Error color -->
+        <item name="colorError">#D32F2F</item>
+
+        <!-- Status bar -->
+        <item name="android:statusBarColor">#1B5E20</item>
+    </style>
+
+    <style name="MyActionBar" parent="Widget.AppCompat.ActionBar">
+        <item name="android:background">#2E7D32</item>
+        <item name="android:titleTextStyle">@style/MyActionBarTitle</item>
+    </style>
+
+    <style name="MyActionBarTitle" parent="TextAppearance.AppCompat.Widget.ActionBar.Title">
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+</resources>
