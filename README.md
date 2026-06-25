@@ -1,5 +1,3 @@
-# CrowdBudget-App
-CrowdBudget - A mobile application that helps users estimate shopping budgets using crowdsourced price data. Built with Kotlin and Firebase.
 # 🛒 CrowdBudget
 
 **Community-Based Shopping Budget Estimation Using Crowdsourced Price Data**
@@ -36,13 +34,9 @@ CrowdBudget is a mobile application that helps users estimate their shopping bud
 
 ---
 
-## 👨‍💻 Author
+## 🎥 Demo Video
 
-**Rameez Serniabat**
-- Student ID: 202512669
-- Master of Science in Computer Science
-- Mulungushi University
-- Email: rameezalamserniabat@gmail.com
+Watch the app demo here: [CrowdBudget Demo](https://drive.google.com/file/d/1y_pQo0xFacaGAub333J2IWd9NeAVicOH/view?usp=sharing)
 
 ---
 
